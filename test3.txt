@@ -1,0 +1,10 @@
+4x4
+A B A D
+! F G H
+E J K L
+I N O P
+AB A
+A !EI
+BFJ
+DHLP
+NOP
